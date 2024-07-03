@@ -47,4 +47,4 @@ I used a simple `LogisticRegression` for the baseline.
 On my `validation data` I have a **~82% accuracy**.
 
 ### Baseline submission
-![Baseline submission](image.png)
+![Baseline submission](src/baseline_submission.png)
